@@ -1,0 +1,13 @@
+/* couldn't get geist to work, waiting for it as a google font */
+
+* {
+  font-family: "Geist", sans-serif;
+}
+*/
+
+/* Removing gradients */
+.main-entityHeader-backgroundColor,
+.main-actionBarBackground-background {
+  background-color: unset !important;
+  background-image: none;
+}
