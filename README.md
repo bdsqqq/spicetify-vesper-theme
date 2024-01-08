@@ -1,13 +1,11 @@
-# Default
+
+![Hero image](./vesper-hero.jpg)
+
+# Vesper
 
 ~~Peppermint~~ and orange flavored dark theme for ~~VSCode~~ Spotify.
 
-## Screenshot
+@bdsqqq's Port of the [Vesper VSCode theme](https://github.com/raunofreiberg/vesper/tree/main).
+For usage with Spicetify.
+![Screenshot](./vesper.png)
 
-![screenshot](./vesper.png)
-
-## Info
-
-### Ocean
-
-Port of the [Vesper VSCode theme](https://github.com/raunofreiberg/vesper/tree/main). Port by @bdsqqq
