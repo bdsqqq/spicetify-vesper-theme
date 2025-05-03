@@ -1,0 +1,12 @@
+{
+    "name": "Vesper",
+    "description": "Peppermint and orange flavored dark theme for Spotify. Port of the Vesper VSCode theme.",
+    "preview": "vesper.png",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "authors": [
+        { "name": "bdsqqq", "url": "https://github.com/bdsqqq" }
+    ],
+    "tags": ["dark", "minimal"]
+}
