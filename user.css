@@ -1,9 +1,8 @@
-/* couldn't get geist to work, waiting for it as a google font */
+@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap");
 
 * {
-  font-family: "Geist", sans-serif;
+  font-family: "Geist mono", monospace !important;
 }
-*/
 
 /* Removing gradients */
 .main-entityHeader-backgroundColor,
